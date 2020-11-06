@@ -1,0 +1,175 @@
+header {
+    height: 120px;
+    background-color: rgb(22, 221, 221);
+    font-size: 40px;
+    
+}
+
+
+#top {
+
+    height: 450px;
+    border: 6px dashed rgb(37, 136, 182);
+    margin-top: 70px;
+    margin-bottom: 30px;
+    margin: 0 auto;
+
+
+}
+
+#purp-rec{
+    display:inline-block;
+    margin-left: 12px;
+    margin-bottom:30px;
+    margin-left: 30px;
+    margin-right: 35px;
+    height:180px;
+    width:240px;
+    background-color: rgb(109, 32, 182);
+    border: 5px solid red;
+
+}
+#blue-sq{
+    display:inline-block;
+    margin-bottom:30px;
+    height:170px;
+    width:170px;
+    background-color: rgb(4, 30, 179);
+    border: 2px solid black;
+    box-shadow:6px 6px 4px black;
+
+
+}
+#pink-sq{
+    display:inline-block;
+    margin-bottom:30px ;
+    margin-left: 55px;
+    height:375px;
+    width:375px;
+    background-color: rgb(250, 107, 107);
+    border: 2px solid black;
+
+}
+
+#mid {
+
+    height: 470px;
+    border: 6px dashed rgb(37, 136, 182);
+    margin: 0 auto;
+    margin-top:40px;
+    margin-bottom: 40px;
+    padding:40px;
+}
+
+#cir1 {
+   
+    height:105px;
+    width:0105px;
+    border-radius: 105px;
+    border: 2px solid rgb(0, 0, 0);
+    margin-left: 50px;
+    
+    
+}
+
+#cir2 {
+    
+    height:130px;
+    width:130px;
+    border-radius: 130px;
+    border: 2px solid black;
+    margin-left: 35px;
+
+   
+    
+}
+
+#cir3 {
+    height:200px;
+    width:200px;
+    border-radius: 200px;
+    border: 2px solid black;
+    
+
+    
+    
+}
+
+#botom {
+
+    height:455px;
+    border: 6px dashed rgb(37, 136, 182);
+    margin:20px;
+    margin:0 auto;
+    
+
+}
+
+
+#sand-rec {
+
+        height:415px;
+        width:415px;
+        background-color: rgb(252, 226, 170);
+        border: 4px solid black;
+        margin:20px;
+       
+}
+
+#grn-cir {
+    height:320px;
+    width:320px;
+    border-radius: 220px;
+    border: 3px solid black;
+    background-color: seagreen;
+
+}
+
+#red-box {
+    height: 195px;
+    width: 195px;
+    background-color: tomato;
+    margin: 60px;
+    text-align: center;
+    color:white;
+    font-size: 20px;
+
+
+}
+
+#coalEyes {
+
+    height: 27px;
+    width: 27px;
+
+
+
+}
+
+#a-carrot {
+    height: 27px;
+    width: 27px;
+    display: block;
+
+}
+
+#buttons {
+
+    height: 27px;
+    width: 27px;
+    display: block;
+    margin:5;
+
+
+
+}
+
+#fish {
+    height: 150px;
+    width: 150px;
+    border-radius: 150px;
+    
+
+
+
+}
